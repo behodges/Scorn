@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mapletoastt/metallic/main/uv.png" height="200">
+<p align="center"><img src="https://raw.githubusercontent.com/mapletoastt/metallic/static/uv.png" height="200">
 </p>
 
 <h1 align="center">Metallic</h1>
