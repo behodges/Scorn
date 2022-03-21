@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mapletoastt/metallic/static/uv.png" height="200">
+<p align="center"><img src="https://github.com/mapletoastt/metallic/blob/2c4ec6a50e90e4813d158ca7507575a3ac166b97/static/uv.png" height="200">
 </p>
 
 <h1 align="center">Metallic</h1>
