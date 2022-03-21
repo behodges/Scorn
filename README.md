@@ -1,13 +1,13 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/ultraviolet-static/main/uv.png" height="200">
+<p align="center"><img src="https://raw.githubusercontent.com/mapletoastt/metallic/main/uv.png" height="200">
 </p>
 
-<h1 align="center">Ultraviolet-Node</h1>
+<h1 align="center">Metallic</h1>
 
 <p align="center">The deployable version of Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
 
 ## Quick Deployments
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/mapletoastt/Ultraviolet-Node)
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/mapletoastt/Ultraviolet-Node)
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/mapletoastt/metallic)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/mapletoastt/metallic)
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
@@ -33,10 +33,6 @@
 - Parse5
 - Acorn.js
 
-## Used by
-- [Incognito](https://github.com/caracal-js/Incognito), a popular web proxy service with focus on privacy
-- [Holy-Unblocker](https://github.com/titaniumnetwork-dev/Holy-Unblocker), a popular web proxy service focusing on bypassing web filters and more
-- [Hypertabs](titaniumnetwork.org/), a web proxy service using a PWA browser as its frontend
 
 ## Table of Contents
 - [Installation And Setup](#installation-and-setup)
@@ -154,13 +150,3 @@ The client-hooking & service worker scripts required for UV are located in [ultr
     - `uv.bundle.js` Webpack compiled Ultraviolet rewriter
     - `uv.handler.js` Client-side hooking
     - `uv.config.js` Configuration
-
-# Authors
-
-- Caracal.js (Creator of Ultraviolet)
-- Divide (Creator of TOMP)
-
-# Credits
-- https://github.com/tomphttp
-
-
