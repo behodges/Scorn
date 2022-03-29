@@ -11,7 +11,7 @@
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
-- URL encoding settings to further hide activity when using Ultraviolet
+- URL encoding settings to further hide activity when using Metallic
 - Configuration all done on the client-side via service-workers
 - Speed in comparison to other web proxies that fully proxy content
 - Blacklist setting and more for easy hosting
@@ -26,9 +26,3 @@
 - [Reddit](https://reddit.com)
 - [GeForce NOW](https://play.geforcenow.com/) (Partially Supported)
 - And more!
-
-## Technologies Used
-- Service Workers
-- HTML, JS, CSS rewriting
-- Parse5
-- Acorn.js
